@@ -1,6 +1,10 @@
 import copy
 
+<<<<<<< HEAD
 fin, fout = open('socdist.in'), open('socdistout', 'w')
+=======
+fin, fout = open('socdist1.in'), open('socdist1.out', 'w')
+>>>>>>> 588efe40b96aaabeeffae561a4efc4641bef1115
 
 N = int(fin.readline())
 stalls = list(fin.readline())

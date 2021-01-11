@@ -5,6 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f7ba9e54-6581-4e55-a952-a93d95876764" name="Default Changelist" comment="">
+<<<<<<< HEAD
+=======
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2019_Jan_planting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/bUSACO.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/bUSACO.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+>>>>>>> 588efe40b96aaabeeffae561a4efc4641bef1115
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,6 +22,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
@@ -49,6 +59,8 @@
       </file>
     </leaf>
   </component>
+=======
+>>>>>>> 588efe40b96aaabeeffae561a4efc4641bef1115
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -64,6 +76,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+<<<<<<< HEAD
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -119,6 +132,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../bronze" />
+=======
+  <component name="ProjectId" id="1lJ1IbVZUJc9kKsPOsblSbgOFcY" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+>>>>>>> 588efe40b96aaabeeffae561a4efc4641bef1115
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -276,6 +295,7 @@
       <workItem from="1605485167402" duration="94000" />
       <workItem from="1605665718813" duration="9526000" />
       <workItem from="1606172463504" duration="8859000" />
+<<<<<<< HEAD
       <workItem from="1607299279967" duration="724000" />
       <workItem from="1607889834936" duration="599000" />
       <workItem from="1608313185824" duration="74000" />
@@ -286,6 +306,12 @@
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="25232000" />
   </component>
+=======
+      <workItem from="1607300301850" duration="45000" />
+    </task>
+    <servers />
+  </component>
+>>>>>>> 588efe40b96aaabeeffae561a4efc4641bef1115
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -295,6 +321,7 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
+<<<<<<< HEAD
   <component name="ToolWindowManager">
     <frame x="1081" y="27" width="1479" height="1345" extended-state="4" />
     <layout>
@@ -347,6 +374,22 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+=======
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+>>>>>>> 588efe40b96aaabeeffae561a4efc4641bef1115
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -364,6 +407,7 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+<<<<<<< HEAD
     <SUITE FILE_PATH="coverage/silver$2017_Dec_Silver_homework.coverage" NAME="2017_Dec_Silver_homework Coverage Results" MODIFIED="1601839029583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/silver$2017_Dec_Silver_measurement.coverage" NAME="2017_Dec_Silver_measurement Coverage Results" MODIFIED="1601838576241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/silver$2013_Nov_nocow.coverage" NAME="2013_Nov_nocow Coverage Results" MODIFIED="1607299403169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -479,5 +523,13 @@
     <entry file="file://$PROJECT_DIR$/nocow.out">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+=======
+    <SUITE FILE_PATH="coverage/silver$2013_Nov_nocow.coverage" NAME="2013_Nov_nocow Coverage Results" MODIFIED="1607299403169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/silver$2013_Nov_nocow2.coverage" NAME="2013_Nov_nocow2 Coverage Results" MODIFIED="1606191275834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/silver$2016_Dec_citystate.coverage" NAME="2016_Dec_citystate Coverage Results" MODIFIED="1605934384168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/silver$2017_Dec_Silver_homework.coverage" NAME="2017_Dec_Silver_homework Coverage Results" MODIFIED="1601839029583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/silver$2020_feb_1014_swap.coverage" NAME="2020_feb_1014_swap Coverage Results" MODIFIED="1602794378321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/silver$2017_Dec_Silver_measurement.coverage" NAME="2017_Dec_Silver_measurement Coverage Results" MODIFIED="1601838576241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+>>>>>>> 588efe40b96aaabeeffae561a4efc4641bef1115
   </component>
 </project>

@@ -13,7 +13,12 @@ for i in range(M):
     f = list(map(int, fin.readline().strip().split()))
     for _ in range(f[0]):
         bessie.append(f[1])
+<<<<<<< HEAD
 
+=======
+print(road)
+print(bessie)
+>>>>>>> 588efe40b96aaabeeffae561a4efc4641bef1115
 ans = 0
 for i in range(100):
     r = road[i]

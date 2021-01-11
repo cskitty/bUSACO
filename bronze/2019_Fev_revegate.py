@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+import itertools
+>>>>>>> 588efe40b96aaabeeffae561a4efc4641bef1115
 fin, fout = open("revegetate.in"), open("revegetate.out", "w")
 
 n, m = tuple(map(int, fin.readline().split()))

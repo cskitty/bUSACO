@@ -37,6 +37,10 @@ for cow in cowTLst:
             min2count += 1
             min2 = cow
 
+<<<<<<< HEAD
+=======
+print(min2, min2count)
+>>>>>>> 588efe40b96aaabeeffae561a4efc4641bef1115
 if min2count == 1:
     fout.write(min2[1])
 else:

@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a569e9ef-49bb-49c1-a387-4cf845bd1b9e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/bfs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithms/search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bronze/2011_Dec_haybales.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bronze/2012_Jan_stacking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bronze/2013_Dec_baseball.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bronze/2013_Dec_records.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bronze/2013_Feb_relay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bronze/2014_Dec_learning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bronze/2014_Dec_learning2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bronze/2014_Dec_learning3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bronze/2014_Dec_marathon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bronze/2020_Dec_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bronze/2020_Dec_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bronze/2020_Dec_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bronze/learning.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bronze/learning.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bronze/onehundred" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bronze/onehundred.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bronze/q3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bronze/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bronze/sss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bronze/stacking.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bronze/stacking.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bronze/test/1.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bronze/test/1.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bronze/test/10.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bronze/test/10.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bronze/test/2.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bronze/test/2.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bronze/test/3.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bronze/test/3.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bronze/test/4.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bronze/test/4.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bronze/test/5.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bronze/test/5.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bronze/test/6.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bronze/test/6.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bronze/test/7.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bronze/test/7.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bronze/test/8.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bronze/test/8.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bronze/test/9.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bronze/test/9.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bronze/test/stacking.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/silver/2019_Jan_planting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/silver/closing.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/silver/closing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/silver/planting.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/bin/activate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/bin/activate.csh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/bin/activate.fish" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/bin/python" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/bin/python3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/bin/python3.7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/bUSACO.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/bUSACO.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/angry.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/angry.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/backforth.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/backforth.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/billboard.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/billboard.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/blist.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/blist.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/blocks.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/blocks.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/buckets.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/buckets.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/cbarn.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/cbarn.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/censor.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/censor.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/circlecross.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/circlecross.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/cow.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/cow.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/cownomics.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/cownomics.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/cowqueue.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/cowqueue.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/cowsignal.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/cowsignal.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/crossroad.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/crossroad.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/diamond.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/diamond.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/gymnastics.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/gymnastics.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/lifeguards.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/lifeguards.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/lineup.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/lineup.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/lostcow.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/lostcow.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/measurement.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/measurement.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/milktemp.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/milktemp.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/mowing.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/mowing.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/notlast.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/notlast.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/pails.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/pails.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/paint.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/paint.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/photo.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/photo.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/planting.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/planting.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/promote.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/reduce.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/reduce.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/revegetate.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/revegetate.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/shuffle.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/shuffle.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/socdist1.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/socdist1.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/socdist2.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/socdist2.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/speeding.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/speeding.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/square.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/square.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/swap.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/swap.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/tracing.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/tracing.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/whereami.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bronze/whereami.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/silver/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/silver/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lJ0Mfq23GdNyAPb5daqmZMA4NO" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/bronze" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bronze" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bronze" />
+      <recent name="$PROJECT_DIR$/bronze/.idea" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.2014_Dec_learning3">
+    <configuration name="2014_Dec_learning" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bUSACO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bronze" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bronze/2014_Dec_learning.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2014_Dec_learning2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bUSACO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bronze" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bronze/2014_Dec_learning2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2014_Dec_learning3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bUSACO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bronze" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bronze/2014_Dec_learning3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bfs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bUSACO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/bfs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="onehundred" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bUSACO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bronze" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bronze/onehundred.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.2014_Dec_learning3" />
+        <item itemvalue="Python.2014_Dec_learning2" />
+        <item itemvalue="Python.2014_Dec_learning" />
+        <item itemvalue="Python.bfs" />
+        <item itemvalue="Python.onehundred" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a569e9ef-49bb-49c1-a387-4cf845bd1b9e" name="Default Changelist" comment="" />
+      <created>1599673595829</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599673595829</updated>
+      <workItem from="1599673596919" duration="2509000" />
+      <workItem from="1600026944859" duration="1611000" />
+      <workItem from="1600028569914" duration="13000" />
+      <workItem from="1602030551923" duration="2202000" />
+      <workItem from="1602433960270" duration="3479000" />
+      <workItem from="1603656679099" duration="34000" />
+      <workItem from="1603656724990" duration="7304000" />
+      <workItem from="1604631295795" duration="3947000" />
+      <workItem from="1604775177943" duration="44000" />
+      <workItem from="1604871767926" duration="314000" />
+      <workItem from="1606787268885" duration="26000" />
+      <workItem from="1607299840475" duration="235000" />
+      <workItem from="1607300348503" duration="13163000" />
+      <workItem from="1607979396808" duration="5322000" />
+      <workItem from="1608262176306" duration="1318000" />
+      <workItem from="1608266722521" duration="58000" />
+      <workItem from="1608308131440" duration="11958000" />
+      <workItem from="1608344854218" duration="51000" />
+      <workItem from="1608509780955" duration="3253000" />
+      <workItem from="1609040192866" duration="23409000" />
+      <workItem from="1610330699174" duration="270000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bronze/567_paint.py</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bronze/2016_Jan_mowing_bronze.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/algorithms/sort.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/silver/closing.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bronze/2013_Feb_relay.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bronze/2011_Dec_haybales.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bronze/2020_Dec_2.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bronze/onehundred.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/algorithms/bfs.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bronze/2014_Dec_learning.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bronze/2014_Dec_learning.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bronze/2014_Dec_learning2.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bronze/2014_Dec_learning3.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/bUSACO$519_promote.coverage" NAME="519_promote Coverage Results" MODIFIED="1599674528305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bronze" />
+    <SUITE FILE_PATH="coverage/bUSACO$2019_Jan_planting.coverage" NAME="2019_Jan_planting Coverage Results" MODIFIED="1607300756382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/silver" />
+    <SUITE FILE_PATH="coverage/bUSACO$2020_Dec_3.coverage" NAME="2020_Dec_3 Coverage Results" MODIFIED="1608509831711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bronze" />
+    <SUITE FILE_PATH="coverage/bUSACO$teleport.coverage" NAME="teleport Coverage Results" MODIFIED="1603924290972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bUSACO$2012_Jan_stacking.coverage" NAME="2012_Jan_stacking Coverage Results" MODIFIED="1608308628445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bronze" />
+    <SUITE FILE_PATH="coverage/bUSACO$2013_Feb_relay.coverage" NAME="2013_Feb_relay Coverage Results" MODIFIED="1607539852446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bronze" />
+    <SUITE FILE_PATH="coverage/bUSACO$mean_kitty.coverage" NAME="mean_kitty Coverage Results" MODIFIED="1607310023425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/silver" />
+    <SUITE FILE_PATH="coverage/bUSACO$closing.coverage" NAME="closing Coverage Results" MODIFIED="1607314249774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/silver" />
+    <SUITE FILE_PATH="coverage/bUSACO$2014_Dec_learning.coverage" NAME="2014_Dec_learning Coverage Results" MODIFIED="1609221881317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bronze" />
+    <SUITE FILE_PATH="coverage/bUSACO$run.coverage" NAME="run Coverage Results" MODIFIED="1608265679023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bronze" />
+    <SUITE FILE_PATH="coverage/bUSACO$2020_Dec_2.coverage" NAME="2020_Dec_2 Coverage Results" MODIFIED="1608311388035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bronze" />
+    <SUITE FILE_PATH="coverage/bUSACO$567_paint.coverage" NAME="567_paint Coverage Results" MODIFIED="1602030674908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bUSACO$bunny.coverage" NAME="bunny Coverage Results" MODIFIED="1608152176761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bUSACO$2014_Dec_learning2.coverage" NAME="2014_Dec_learning2 Coverage Results" MODIFIED="1609348216138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bronze" />
+    <SUITE FILE_PATH="coverage/bUSACO$2013_Dec_baseball.coverage" NAME="2013_Dec_baseball Coverage Results" MODIFIED="1607542101605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bronze" />
+    <SUITE FILE_PATH="coverage/bUSACO$2016_Jan_mowing_bronze.coverage" NAME="2016_Jan_mowing_bronze Coverage Results" MODIFIED="1602440294412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bronze" />
+    <SUITE FILE_PATH="coverage/bUSACO$crossroad.coverage" NAME="crossroad Coverage Results" MODIFIED="1600028490432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bUSACO$bfs.coverage" NAME="bfs Coverage Results" MODIFIED="1609041162251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms" />
+    <SUITE FILE_PATH="coverage/bUSACO$2013_Dec_records.coverage" NAME="2013_Dec_records Coverage Results" MODIFIED="1607541481225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bronze" />
+    <SUITE FILE_PATH="coverage/bUSACO$onehundred.coverage" NAME="onehundred Coverage Results" MODIFIED="1608583386658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bronze" />
+    <SUITE FILE_PATH="coverage/bUSACO$2011_Dec_haybales.coverage" NAME="2011_Dec_haybales Coverage Results" MODIFIED="1608153802582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bronze" />
+    <SUITE FILE_PATH="coverage/bUSACO$paint.coverage" NAME="paint Coverage Results" MODIFIED="1604634643254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bUSACO$2020_Dec_1.coverage" NAME="2020_Dec_1 Coverage Results" MODIFIED="1608308644272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bronze" />
+    <SUITE FILE_PATH="coverage/bUSACO$sort.coverage" NAME="sort Coverage Results" MODIFIED="1603662189255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms" />
+    <SUITE FILE_PATH="coverage/bUSACO$2014_Dec_learning3.coverage" NAME="2014_Dec_learning3 Coverage Results" MODIFIED="1609356248039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bronze" />
+    <SUITE FILE_PATH="coverage/bUSACO$crawl.coverage" NAME="crawl Coverage Results" MODIFIED="1602031953168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bUSACO$q3.coverage" NAME="q3 Coverage Results" MODIFIED="1608509872483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bronze" />
+  </component>
+</project>

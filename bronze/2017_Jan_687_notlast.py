@@ -15,6 +15,11 @@ min1 = [('Bessie', 103)]
 min2 = [('Bessie', 103)]
 for cow in cows:
     cowVal = cows[cow]
+<<<<<<< HEAD
+=======
+    if cow == 'Gertie':
+        print('Yummy says hi to Gertie')
+>>>>>>> 588efe40b96aaabeeffae561a4efc4641bef1115
     if cowVal < min1[0][1]:
         min2 = min1
         min1 = [(cow, cowVal)]
