@@ -1,7 +1,13 @@
-A = list(map(int, input().split()))
-A.sort()
+N = list(map(int, input().split()))
+N.sort()
 
-if (A[0] + A[1] == A[2]):
-    print(str(A[0]) + ' ' + str(A[1]) + ' ' + str(A[3]))
-else:
-    print(str(A[0]) + ' ' + str(A[1]) + ' ' + str(A[2]))
+aPbPc = N[-1]
+a = N[0]
+b = N[1]
+print(a, b, end=" ")
+
+# N[0] is A
+# N[1] is B
+n2 = a + b # Always true
+
+print(aPbPc - n2)

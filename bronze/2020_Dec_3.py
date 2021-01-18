@@ -1,70 +1,36 @@
 N = int(input())
+cows = {}
+myMax = 1000
 
-North = []
-East  = []
-id    = 0
-INF   = 1000000001
+for x in range(N):
+    f = input().split()
 
-cowpos = [(0, 0)] * N
-for i in range(N):
-    d, x, y = input().split()
+    cows[x] = f
+    cows[x][1] = int(cows[x][1])
+    cows[x][2] = int(cows[x][2])
 
-    x = int(x)
-    y = int(y)
+grass = [[myMax + 1 for x in range(myMax)] for y in range(myMax)]
+for k in cows:
+    grass[cows[k][1]][cows[k][2]] = 0
 
-    if d == 'N':
-        North.append((x, y, id))
-    else:
-        East.append((x, y, id))
-    cowpos[id] = (x, y)
-    id += 1
-
-meetTime = []
-for nCow in North:
-    for eCow in East:
-        yTime = eCow[1] - nCow[1]
-        xTime = nCow[0] - eCow[0]
-
-        if (xTime == yTime):
+out = [0] * N
+for time in range(1, myMax + 1):
+    for k in cows:
+        if out[k] != 0:
             continue
 
-        if yTime > xTime and xTime > 0:
-            meetTime.append((yTime, nCow[2], eCow[2], 0))
-        elif yTime < xTime and yTime > 0:
-            meetTime.append((xTime, eCow[2], nCow[2], 1))
-
-#print(meetTime)
-meetTime.sort()
-#print(meetTime)
-
-ans = [INF] * N
-stopped = set()
-for mt in meetTime:
-    #if not mt[2] in stopped and not mt[1] in stopped:
-    if ans[mt[2]] == INF and ans[mt[1]] == INF:
-        ans[mt[1]] = mt[0]
-        #stopped.add(mt[1])
-        continue
-
-    if ans[mt[1]] == INF:
-        if mt[3]:
-            #east
-
-            start2 = cowpos[mt[2]][1]
-            end2 = start2 + ans[mt[2]]
-
-            if (cowpos[mt[1]][1] >= start2 and cowpos[mt[1]][1] <= end2):
-                ans[mt[1]] = mt[0]
+        if cows[k][0] == "E":
+            cows[k][1] += 1
         else:
-            #north
-            start2 = cowpos[mt[2]][0]
-            end2 = start2 + ans[mt[2]]
+            cows[k][2] += 1
 
-            if (cowpos[mt[1]][0] >= start2 and cowpos[mt[1]][0] <= end2):
-                ans[mt[1]] = mt[0]
 
-for i in range(N):
-    if ans[i]  == INF:
-        print("Infinity")
-    else:
-        print(ans[i])
+        if cows[k][1] >= myMax or cows[k][2] >= myMax:
+            out[k] = "Infinity"
+        elif grass[cows[k][1]][cows[k][2]] < time:
+            out[k] = time
+        else:
+            grass[cows[k][1]][cows[k][2]] = time
+
+for o in out:
+    print(o)

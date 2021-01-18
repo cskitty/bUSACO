@@ -1,18 +1,17 @@
 N = int(input())
-A = list(map(int, input().split()))
+flowers = list(map(int, input().split()))
 
-ans = 0
+count = 0
 for i in range(N):
-    for j in range(i+1):
-       mySet = set()
-       sum = 0
-       for k in range(j, i+1):
-         sum += A[k]
-         mySet.add(A[k])
-       #print(sum, mySet, i, j, (i-j+1))
-       count = (i-j+1)
-       if (sum % count == 0) and (sum // count) in mySet:
-         ans += 1
+    for j in range(i, N):
+        working = False
+        average = sum(flowers[i:j + 1]) / (j - i + 1)
 
-print(ans)
+        for flower in flowers[i:j + 1]:
+            if flower == average:
+                working = True
 
+        if working:
+            count += 1
+
+print(count)
