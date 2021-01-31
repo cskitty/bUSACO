@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a569e9ef-49bb-49c1-a387-4cf845bd1b9e" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/2015_open_moocryption.pyi" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/2021_Jan2.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/2021_Jan2_2.py" afterDir="false" />
@@ -21,6 +22,10 @@
       <change afterPath="$PROJECT_DIR$/teamsforming.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/bUSACO.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/bUSACO.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/ACSL/enclosure.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ACSL/prefix.py" afterDir="false" />
+>>>>>>> a854241f02819faabc038431a6beaba032c07317
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

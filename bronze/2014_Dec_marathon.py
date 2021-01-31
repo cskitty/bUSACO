@@ -17,9 +17,9 @@ for i in range(1, N):
     temp = copy.deepcopy(coors)
     temp.pop(i)
 
-d = 0
-for pointI in range(N - 2):
-    d += dis(temp[pointI], temp[pointI + 1])
+    d = 0
+    for pointI in range(N - 2):
+        d += dis(temp[pointI], temp[pointI + 1])
     m = min(d, m)
 
 
