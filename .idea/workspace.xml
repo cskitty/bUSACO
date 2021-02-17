@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a569e9ef-49bb-49c1-a387-4cf845bd1b9e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CF/books.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CF/books2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lex_strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lex_strings_intermediate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/bUSACO.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/bUSACO.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c/19dec_963/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c/19dec_963/.idea/19dec_963.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c/19dec_963/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c/19dec_963/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c/19dec_963/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c/19dec_963/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c/19dec_963/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -242,7 +241,7 @@
       <workItem from="1612485926807" duration="2753000" />
       <workItem from="1612645218060" duration="44000" />
       <workItem from="1612645264128" duration="628000" />
-      <workItem from="1612646014360" duration="7563000" />
+      <workItem from="1612646014360" duration="8534000" />
     </task>
     <servers />
   </component>
